@@ -5,7 +5,7 @@ FEWD-01 projects
 
 Hello, my name is *Kat*
 
-I’m a _**UX/UI Designer**_ with a background in hospitality leadership, blending nearly a decade of guest experience with human-centered design. I bring the same instinct for anticipating needs, orchestrating smooth experiences, and leading with empathy into every digital product I create.
+I’m an aspiring _**UX/UI Designer**_ with a background in hospitality leadership, blending nearly a decade of guest experience with human-centered design. I bring the same instinct for anticipating needs, orchestrating smooth experiences, and leading with empathy into every digital product I create.
 
 When I'm not in front of my computer, you can find me in the wild:
 * Surfing
